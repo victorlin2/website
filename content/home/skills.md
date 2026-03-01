@@ -19,15 +19,15 @@ feature:
   - icon: flask
     icon_pack: fas
     name: Analytical chemistry
-    description: '10+ years’ experience in Analytical chemistry, using LC-MS, GC-MS and NMR.'
+    description: '10+ years’ experience applying LC-MS, GC-MS, and NMR to metabolomics, lipidomics, and exposomics.'
   - icon: chart-line
     icon_pack: fas
     name: Multivariate statistics
-    description: '10+ years of experience in Multivariate statistics.'
+    description: '10+ years’ experience in multivariate statistics for high‑dimensional data analysis and interpretation.'
   - icon: r-project
     icon_pack: fab
     name: R (programming language)
-    description: '5+ years of experience using R.'
+    description: '5+ years applying R in academic research for statistical analysis, data wrangling, modeling, and publication‑quality visualization.'
     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
