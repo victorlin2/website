@@ -26,7 +26,7 @@ feature:
     description: '10+ years of experience in Multivariate statistics.'
   - icon: r-project
     icon_pack: fab
-    name: R
+    name: R (programming language)
     description: '5+ years of experience using R.'
     
 # Uncomment to use emoji icons.
