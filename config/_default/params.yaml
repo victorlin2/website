@@ -21,7 +21,7 @@
   theme_night: "minimal"
 # font: minimal
   font: minimal
-  font_size: M
+  font_size: S
 
 # SITE SETUP
 # Documentation: https://sourcethemes.com/academic/
