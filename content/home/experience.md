@@ -47,7 +47,7 @@ experience:
     description: 'High-resolution **Mass Spectrometry** based **metabolomics**, **exposomics**.'
     
   - title: 'PhD in Chemistry'
-    company: 'Sorbonne Paris North University'
+    company: 'Université Sorbonne Paris Nord'
     company_url: ''
 #    company_logo: org-x
     location: 'Paris Area, France'
