@@ -27,7 +27,7 @@ interests:
 education:
   courses:
     - course: PhD, Chemistry
-      institution: Sorbonne Paris North University, France
+      institution: Université Sorbonne Paris Nord, France
       year: 2020
     - course: MSc, Nutritional sciences
       institution: Université Clermont Auvergne, France
