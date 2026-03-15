@@ -9,6 +9,7 @@ title: Xiangping Lin
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseURL: 'https://example.com/' # Website URL
+copyright: "Xiangping Lin&copy; {year}" # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -25,7 +26,11 @@ removePathAccents: true
 ############################
 
 module:
+  proxy: https://goproxy.cn
   imports:
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-bootstrap/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
 
