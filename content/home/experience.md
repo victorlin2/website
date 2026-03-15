@@ -38,11 +38,11 @@ experience:
 #        * Deploying
 
   - title: 'Postdoctoral Fellow'
-    company: 'Icahn School of Medicine at Mount Sinai'
+    company: 'Institute for Exposomic Research, Icahn School of Medicine at Mount Sinai'
     company_url: ''
 #    company_logo: org-x
     location: 'New York'
-    date_start: '2021-11-23'
+    date_start: '2020-11-23'
     date_end: '2022-01-31'
     description: 'High-resolution **Mass Spectrometry** based **metabolomics**, **exposomics**.'
     
