@@ -26,14 +26,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Chemistry
-      institution: Sorbonne Paris North University
+    - course: PhD, Chemistry
+      institution: Sorbonne Paris North University, France
       year: 2020
-    - course: MSc in Nutritional sciences
-      institution: Université Clermont Auvergne
+    - course: MSc, Nutritional sciences
+      institution: Université Clermont Auvergne, France
       year: 2015
-    - course: BSc in Cell Biology and Physiology
-      institution: Université Blaise Pascal (Clermont-II)
+    - course: BSc, Cell Biology and Physiology
+      institution: Université Clermont Auvergne, France
       year: 2013
 
 # Social/Academic Networking
