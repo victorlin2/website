@@ -52,7 +52,7 @@ experience:
 #    company_logo: org-x
     location: 'Paris Area, France'
     date_start: '2016-09-01'
-    date_end: '2022-03-12'
+    date_end: '2020-03-12'
     description: 'NMR and UHPLC-HRMS based Metabolomics: Application in Non-alcoholic fatty liver disease (NAFLD) and Prostate Cancer Biomarker Discovery.'   
 
 design:
