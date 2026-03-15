@@ -26,7 +26,7 @@ experience:
     company: 'Stanford University School of Medicine'
     company_url: ''
 #    company_logo: org-gc
-    location: 'California'
+    location: 'California, USA'
     date_start: '2022-02-01'
     date_end: ''
     description: 'High-resolution **Mass Spectrometry** based **Metabolomics**, lipidomics, **exposomics**.'
@@ -41,7 +41,7 @@ experience:
     company: 'Institute for Exposomic Research, Icahn School of Medicine at Mount Sinai'
     company_url: ''
 #    company_logo: org-x
-    location: 'New York'
+    location: 'New York, USA'
     date_start: '2020-11-23'
     date_end: '2022-01-31'
     description: 'High-resolution **Mass Spectrometry** based **metabolomics**, **exposomics**.'
