@@ -19,9 +19,9 @@ bio: My research interests center on mass spectrometry, metabolomics, and their 
 
 # Interests to show in About widget
 interests:
-  - mass spectrometry
-  - metabolomics
-  - environmental health
+- mass spectrometry
+- metabolomics
+- environmental health
 
 # Education to show in About widget
 education:
