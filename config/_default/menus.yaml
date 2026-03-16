@@ -20,7 +20,7 @@ main:
     url: '#teaching'
     weight: 41
   - name: Posts
-    url: '#post'
+    url: '#posts'
     weight: 42  
   - name: Contact
     url: '#contact'
