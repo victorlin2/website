@@ -3,16 +3,16 @@ title: Environmental Metabolomics special issue
 subtitle: From Environmental Exposures to Health - Metabolic Signatures in Exposome Research
 
 # Summary for listings and search engines
-summary: Hello everyone, I will be Guest Editing for the special issue "From Environmental Exposures to Health - Metabolic Signatures in Exposome Research." If you’re interested in contributing a manuscript, please let me know.
+summary: Hello everyone, I would like to introduce a special issue that I will be guest editing, titled "From Environmental Exposures to Health - Metabolic Signatures in Exposome Research."
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2026-04-14T00:00:00Z'
+date: '2026-04-15T00:00:00Z'
 
 # Date updated
-lastmod: '2026-04-14T00:00:00Z'
+lastmod: '2026-04-15T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
