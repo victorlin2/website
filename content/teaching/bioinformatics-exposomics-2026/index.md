@@ -7,6 +7,24 @@ date: 2026-04-01
 # image:
 #   filename: featured.jpg
 
+# Is this an unpublished draft?
+draft: false
+
+# Show this page in the Featured widget?
+featured: false
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+#  focal_point: ''
+#  placement: 2
+#  preview_only: false
+
+# authors (optional)
+authors:
+  - admin
+
 # Tags (optional)
 tags:
   - Mass spectrometry
