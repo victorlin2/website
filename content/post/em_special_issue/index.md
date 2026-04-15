@@ -55,4 +55,4 @@ Dr. Xinyu Liu
 
 *Guest Editors*
 
-{{< cta cta_text="Special Issue Website" cta_link="[Special Issue Website](https://www.mdpi.com/journal/metabolites/special_issues/2PV0532D57)" cta_new_tab="true" >}}
+{{< cta cta_text="Special Issue Website" cta_link="https://www.mdpi.com/journal/metabolites/special_issues/2PV0532D57" cta_new_tab="true" >}}
