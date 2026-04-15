@@ -13,7 +13,11 @@ tags:
   - Metabolomics
   - Environmental health
   - Exposomics
+
+categories:
   - Teaching
+  - Academic
+
 ---
 
 **Role:** Guest Lecturer  
