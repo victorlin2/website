@@ -32,6 +32,11 @@ authors:
   - admin
 
 tags:
+  - Environmental health
+  - Exposomics
+  - Metabolomics
+
+categories:
   - Academic
 
 #categories:
