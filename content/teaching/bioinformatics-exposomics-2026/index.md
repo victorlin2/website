@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Bioinformatics in Exposomics"
-summary: "Guest lecture covering chemical exposomics, LC-MS metabolomics workflows, and environmental health applications for an undergraduate bioinformatics course."
+summary: "Guest lecture covering mass spectrometry, chemical exposomics, LC-MS metabolomics workflows, and environmental health applications for an undergraduate bioinformatics course."
 date: 2026-04-01
 
 # Optional: featured image
