@@ -9,8 +9,10 @@ date: 2026-04-01
 
 # Tags (optional)
 tags:
-  - Exposomics
+  - Mass spectrometry
   - Metabolomics
+  - Environmental health
+  - Exposomics
   - Teaching
 ---
 
