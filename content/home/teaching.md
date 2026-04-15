@@ -16,7 +16,7 @@ content:
   # Page type to display. E.g. post, talk, publication...
   page_type: teaching
   # Choose how much pages you would like to display (0 = all pages)
-  count: 5
+  count: 0
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
@@ -31,7 +31,7 @@ content:
 design:
   # Choose a view for the listings:
   #   1 = List
-  #   2 = Compact
+  #   2 = Compact # 2 = Compact list with clickable titles
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
